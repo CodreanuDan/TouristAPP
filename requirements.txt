@@ -1,0 +1,11 @@
+streamlit 
+streamlit-javascript
+pandas 
+numpy
+tenacity 
+dataclasses 
+datetime 
+requests
+requests_cache
+retry_requests 
+openmeteo_requests

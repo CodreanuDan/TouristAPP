@@ -1,0 +1,16 @@
+{
+    "name": "Baia Mare, Maramure\u0219, Rom\u00e2nia",
+    "latitude": "47.6565584",
+    "longitude": "23.5719843",
+    "type": "administrative",
+    "country_code": "ro",
+    "postcode": "N/A",
+    "bounding_box": [
+        "47.6227393",
+        "47.8588053",
+        "23.4820483",
+        "23.7116437"
+    ],
+    "osm_id": 10743062,
+    "population": "123738"
+}
